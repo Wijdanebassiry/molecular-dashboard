@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-rdkit-pypi
+rdkit
 xgboost
 scikit-learn
 matplotlib
@@ -9,3 +9,4 @@ seaborn
 shap
 joblib
 Pillow
+umap-learn
